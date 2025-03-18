@@ -1,6 +1,6 @@
-# CIT Hostel Gatepass App
+# NIT Hostel Gatepass App
 
-CIT Hostel Gatepass App, developed using Flutter and Firebase, simplifies the gate-pass approval process for students and faculties at Chennai Institute of Technology.
+NIT Hostel Gatepass App, developed using Flutter and Firebase, simplifies the gate-pass approval process for students and faculties at National Institute of Technology Delhi.
 
 ## Features
 
